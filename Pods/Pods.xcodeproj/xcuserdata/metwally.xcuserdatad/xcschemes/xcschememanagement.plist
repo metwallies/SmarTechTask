@@ -4,30 +4,29 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>SmarTech task copy.xcscheme</key>
+		<key>AFNetworking.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>1</integer>
 		</dict>
-		<key>SmarTech task.xcscheme</key>
+		<key>Pods-SmarTech task.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>DF711ABB1CAC33C90080A44A</key>
+		<key>2B9B6626F301D030D7D996BC06DC2034</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>DF7ACF611CAD341F00A5D929</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>DFCC8F361CAD392300A61720</key>
+		<key>410B25DF16EA5C5B3E2698F74F9625FB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
